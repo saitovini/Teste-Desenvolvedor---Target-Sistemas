@@ -1,0 +1,11 @@
+Questão 1 - Valor final da SOMA: 91
+Questão 2 - O número 12 não pertence à sequência de Fibonacci.
+Questao 3 - Menor valor de faturamento: 373.7838
+            Maior valor de faturamento: 48924.2448
+            Número de dias com faturamento acima da média: 10
+Questao 4 - SP: 37.53%
+            RJ: 20.29%
+            MG: 16.17%
+            ES: 15.03%
+            Outros: 10.98%
+Questao 5- Olá equipe da Target Sistemas
